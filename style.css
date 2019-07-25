@@ -6,6 +6,9 @@ main {
   display:grid;
   'aside article article'
   'aside footer footer';
+  grid-gap:30px;
+}
+  
   aside {
     background: #f75f6c;
   } 
