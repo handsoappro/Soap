@@ -3,13 +3,13 @@
   }
 
   aside {
-  backround: #f75f6c;
+  background: #f75f6c;
   } 
 
   article{
-  backround: ffffff;
+  background: ffffff;
   }
 
   footer{  
-  backround: #8b75fd;
+  background: #8b75fd;
   }
