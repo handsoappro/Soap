@@ -10,10 +10,12 @@ main {
 }
   
   aside {
+    grid-area: aside;
     background: #f75f6c;
   } 
 
   article {
+    grid-area: article;
     background: #ffffff;
   }
 
