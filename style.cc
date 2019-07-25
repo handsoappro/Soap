@@ -1,14 +1,15 @@
-header {
+  header {
   background:#97ece5;
   }
 
-aside {
+  aside {
   backround: #f75f6c;
-}
+  } 
+
+  article{
+  backround: ffffff;
+  }
 
   footer{  
-      backround: #8b75fd;
-  }
-  article{
-      backround: ffffff;
+  backround: #8b75fd;
   }
